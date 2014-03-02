@@ -1,7 +1,7 @@
 {
   "name": "dimmed-monokai",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "dimmed monokai for atom.io",
   "repository": "https://github.com/aweiksnar/dimmed_monokai",
